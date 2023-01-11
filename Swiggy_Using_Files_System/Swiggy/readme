@@ -1,0 +1,20 @@
+Swiggy :
+
+1 . Once after the  program starts,the necessary files will be created in D drive under the swiggy folder ( folder will also be created automatically)
+- (because it is written with static block)
+
+2 . All the hotels , users and delivery persons will be given a unique main Id.
+
+3 . For admin access :
+
+Admin access name : admin
+Password : password
+Secret key : ADMIN
+
+4 . For hotels for forgot password,  the secret key is SWIHOT
+
+5 . For user for forgot password,  the secret key is SWIUSE
+
+6 . For deliver persons for forgot password,  the secret key is SWIDEL
+
+7 . For the delivery persons , if they want to update the status of delivery once after the product is delivered,  the otp is OKAY2022

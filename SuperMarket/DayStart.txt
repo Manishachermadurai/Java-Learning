@@ -1,0 +1,7 @@
+Name            Price            Quantity       
+
+pears           45.0             100            
+dove            50.0             50             
+marie           10.0             200            
+50-50           10.0             90             
+tiger           3.0              300            

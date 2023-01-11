@@ -1,0 +1,3 @@
+Main ID              ITEMS
+
+SWIHOT8907           Egg rice         45.0   0.6    

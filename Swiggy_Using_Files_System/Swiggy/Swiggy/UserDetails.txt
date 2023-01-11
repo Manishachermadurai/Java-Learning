@@ -1,0 +1,5 @@
+706
+ID          Name                            Address                                   Contact Number      
+
+SWIUSE705   Fedrick                         KK Nagar, Tirupur                         6379880356          
+SWIUSE704   MAnisha                         MS Nagar, Tirupur                         9486033980          
